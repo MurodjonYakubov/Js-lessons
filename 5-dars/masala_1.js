@@ -1,0 +1,1 @@
+let a=`Oxford`;if(a.includes(`Oxford`) && a.length>=6 || a.includes(" ")){a=`New Oxford`;console.log(a);}else{console.log(a);}
