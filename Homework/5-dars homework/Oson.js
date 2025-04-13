@@ -1,0 +1,1 @@
+let y=prompt("Yoshingiz nechida?");let t=prompt("Siz talabamisiz? (ha/yo'q)");y=Number(y);let n;if (y<18 || t.toLowerCase()==="ha") {n=5000;} else {n=10000;}alert("Chipta narxi: "+n+" so'm");
