@@ -1,0 +1,1 @@
+let n=11;for(let i=2;i<=n;i++){let t=true;for(let j=2;j<i;j++){if(i%j===0){t=false;break;}}if(t){console.log(i);}}
