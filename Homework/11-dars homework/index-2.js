@@ -1,11 +1,11 @@
-//   1-mashq
+//                                        1-mashq
 // let obj = { id: 1, name: "WebBrain" };
 // for (let key in obj) {
 //   console.log(key); 
 // }
 
 
-//   2-mashq
+//                                        2-mashq
 // let obj = { id: 1, name: "WebBrain" };
 // for (let key in obj) {
 //   if (typeof obj[key] === "number") {
@@ -14,7 +14,7 @@
 // }
 
 
-//   3-mashq
+//                                        3-mashq
 // let obj = {
 //     id: 1,
 //     name: "WebBrain",
@@ -29,7 +29,7 @@
 //   }
 
 
-//   4-mashq
+//                                        4-mashq
 // let obj = {
 //     id: 1,
 //     name: "WebBrain",
@@ -47,7 +47,7 @@
 //   Search(obj, "WebBrain");
   
 
-//   5-mashq
+//                                        5-mashq
 // let obj = {
 //     id: 1,
 //     name: "atirgul",
@@ -65,7 +65,7 @@
 //   searchValue(obj, "i");
   
 
-//   6-mashq
+//                                        6-mashq
 // let person = {
 //     id: 1,
 //     name: "Odil",
@@ -96,7 +96,7 @@
 //   console.log(sumAge(person));
   
 
-//   7-mashq
+//                                        7-mashq
 // let obj = {
 //     id: 1,
 //     name: "Usmon",
@@ -110,7 +110,7 @@
 //   console.log(clone);
 
 
-//   8-mashq
+//                                        8-mashq
 // let obj = {
 //     id: 1,
 //     name: "Usmon",
@@ -127,7 +127,7 @@
 //   }
   
   
-//   9-mashq
+//                                        9-mashq
 // let obj = {
 //     id: 1,
 //     title: "the best",
@@ -139,4 +139,3 @@
 //       break;
 //     }
 //   }
-  
