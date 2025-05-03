@@ -1,4 +1,4 @@
-//                     1-masala
+//                    1-masala
 // let str1 = "webbrain academy";
 // let str2 = "acsa";
 // function check(str1, str2) {
