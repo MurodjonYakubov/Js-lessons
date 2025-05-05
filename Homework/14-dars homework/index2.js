@@ -7,4 +7,3 @@ function tekshirish(str1, str2) {
   return t1 === t2 ? "teng" : "teng emas";
 }
 console.log(tekshirish("oxford", "dxoorf"));
-  
